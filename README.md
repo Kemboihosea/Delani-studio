@@ -20,3 +20,8 @@ it specifies the users needs when interacting with the software.
 
 .Jquery
 
+##### LICENSE 
+
+MIT LICENSE
+
+
