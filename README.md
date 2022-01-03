@@ -14,13 +14,13 @@ it specifies the users needs when interacting with the software.
 
 ## TECHNOLOGIES USED
 
-1 Html
+1 . Html
 
-2 Bootstrap/Css
+2 .Bootstrap/Css
 
-3 Javascript
+3 . Javascript
 
-4 Jquery
+4 . Jquery
 
 ##  LICENSE 
 
