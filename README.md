@@ -6,24 +6,24 @@ To interact with software is easy and user friendly.
 
 Hosea Kipkemoi Kimutai
 
-### ABOUT
+## ABOUT
 
 This website shows the services provided by Delanio studio to their customers  
 it specifies the users needs when interacting with the software. 
 
 
-#### TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
-.Html
+1 Html
 
-.Bootstrap/Css
+2 Bootstrap/Css
 
-.Javascript
+3 Javascript
 
-.Jquery
+4 Jquery
 
-##### LICENSE 
+##  LICENSE 
 
-[MIT](https://github.com/Kemboihosea/project3/blob/main/LICENSE)
+[MIT LICENCE](https://opensource.org/licenses/mit-license.php)
 
 
