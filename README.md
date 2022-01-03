@@ -1,4 +1,6 @@
 # DELANI STUDIO
+It is a website that will interact with the users directly.
+To interact with software is easy and user friendly.
 
 ## AUTHOR
 
