@@ -21,8 +21,7 @@ it specifies the users needs when interacting with the software.
 .Jquery
 
 ##### LICENSE 
-
-MIT LICENSE
+Mit License
 
 https://github.com/Kemboihosea/project3/commit/03a0e29df7677267bbfbac065043172ac6edd4eb
 
