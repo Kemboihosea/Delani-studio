@@ -24,6 +24,6 @@ it specifies the users needs when interacting with the software.
 
 ##### LICENSE 
 
-[MIT](https://github.com/Kemboihosea/project3/commit/03a0e29df7677267bbfbac065043172ac6edd4eb)
+[MIT](https://github.com/Kemboihosea/project3/blob/main/LICENSE)
 
 
