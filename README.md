@@ -1,16 +1,16 @@
 # DELANI STUDIO
 
-## Author
+## AUTHOR
 
 Hosea Kipkemoi Kimutai
 
-### About
+### ABOUT
 
 This website shows the services provided by Delanio studio to their customers  
 it specifies the users needs when interacting with the software. 
 
 
-#### Technologies used
+#### TECHNOLOGIES USED
 
 .Html
 
