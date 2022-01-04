@@ -1,6 +1,7 @@
 # DELANI STUDIO
-It is a website that will interact with the users directly.
-To interact with software is easy and user friendly.
+## DESCRIPTION
+This is a website that will interact with the users directly .They give direction on how to
+interact with software in a  easy procedure.
 
 ## AUTHOR
 
@@ -10,6 +11,9 @@ Hosea Kipkemoi Kimutai
 
 This website shows the services provided by Delanio studio to their customers  
 it specifies the users needs when interacting with the software. 
+## SET UP
+Browse the website using the link to view
+
 
 
 ## TECHNOLOGIES USED
@@ -24,6 +28,9 @@ it specifies the users needs when interacting with the software.
 
 ##  LICENSE 
 
-[MIT LICENCE](https://opensource.org/licenses/mit-license.php)
+[MIT LICENCE](https://opensource.org/licenses/mit-license.phprunn
+
+## BUGS
+The jquer issue. 
 
 
