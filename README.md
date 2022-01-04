@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-#DELANI STUDIO
-=======
+
 # DELANI STUDIO
 ## DESCRIPTION
 This is a website that will interact with the users directly .They give direction on how to
@@ -16,7 +14,11 @@ This website shows the services provided by Delanio studio to their customers
 it specifies the users needs when interacting with the software. 
 ## SET UP
 Browse the website using the link to view
-https://github/kemboihosea/project 3
+<<<<<<< HEAD
+https://github/kemboihosea/project3
+=======
+https://github/kemboihosea
+>>>>>>> 681ad6dffa45aeca2a2c022512788cfaf99e3b95
 
 
 
@@ -36,6 +38,3 @@ https://github/kemboihosea/project 3
 
 ## BUGS
 The jquer issue. 
-
-
->>>>>>> 799b4b5e316bf75ce03941c1a079f9895c229873
