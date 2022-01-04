@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-#DELANI STUDIO
-=======
+
 # DELANI STUDIO
 ## DESCRIPTION
 This is a website that will interact with the users directly .They give direction on how to
