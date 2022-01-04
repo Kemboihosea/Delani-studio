@@ -26,8 +26,7 @@ Browse uasing the link.
 4 . Jquery
 
 ##  LICENSE 
-
-[MIT LICENCE](https://opensource.org/licenses/mit-license.phprunn
+MIT 
 
 ## BUGS
 The jquer issue. 
