@@ -1,83 +1,200 @@
-.home-page{
-    text-align: center;
-    padding: 20%;
-    background-image: url("../assets/backgrounds/h_img.jpg");
-    color: white;
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+.landing{
+  background-image: url('../assets/backgrounds/h_img.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top:17%; 
+  font-family: 'Gabriela', serif;
+}
+
+.landing h1{
+  color: black;
+  padding: 2px;
+  margin: 5px;
+}
+
+.landing p{
+  color: black;
+  padding: 2px;
 
 }
-.mouse{
- padding-top: 30px;
+#logo{
+  margin-top: 12px;
+  margin-bottom: 24px;
+  width: 70px;
+  height: 70px;;
 }
+
+#mouse-click{
+  padding-top : 22px;
+  margin-top: 10%;
+  padding-bottom: 30px; 
+}
+
+#mouse-click {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-55px);
+  }
+  60% {
+    transform: translateY(-45px);
+  }
+}
+
 .about{
-    text-align: center;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top:40px;
+  font-family: 'Copse', serif;
+}
+#about{
+  font-family: 'Gabriela', serif;
 }
 .services{
-    text-align: center;
-    padding: 10px;
-    background-image: url("../assets/backgrounds/s_image.jpg");
-    color: white;
+  text-align: center;
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Copse', serif;
+  font-size: 18px;
 }
-.service-icon{
-    text-align: center;
+.services h2{
+  font-family: 'Gabriela', serif;
+  
 }
-.service-icon .service-icon-design{
-    display: flex;
+#servicesdashboard{
+  background-color: rgba(0,0,0,0.4);
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
-.Portfolio{
-padding: 8px;
-background-image: url("../assets/backgrounds/");
+.what-we-do{
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Gabriela', serif;
 }
-#services dashboard{
-    background-color: rgba(0,0,0,0.4);
-    padding-top: 15%;
-    padding-bottom: 15%;
-    font -size:17px;
-  }
-  .what-we-do{
-    /* text-align: center; */
-  }
-  .what-we-do .headings{
-    padding-bottom:38px;
+.what-we-do .headings{
+  padding-bottom: 38px;
+}
+#portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left:18%;
+  margin-right: 16%; 
+}
+.col-md-3 img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.portfolio h2{
+  text-align: center;
+  padding-top:40px;
+  font-family: 'Gabriela', serif;
+}
+.contact{
+  background-image: url('../assets/backgrounds/c_image.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(231, 207, 207);
+}
+.title{
+  padding: 6px;
+}
+.contact h2{
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-family: 'Gabriela', serif;
+}
+input[type=text],input[type=email],#comment{
+  background: transparent;
+  color: white;
+  font-size: 20px;
+  font-family: 'Copse', serif;
+}
+#product, #development, #design{
+  display: none;
+  font-family: 'Copse', serif;
+  font-size: 16px;
+}
+#product .title, #development .title, #design .title{
+  font-size: 20px;
+  font-weight: 600;
+}
+#overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+  display: none;
+  color: black;
+  width: 100%;
+  height: 100%;
+  background-color:rgba(255, 255, 255, 0.456);
+  position:absolute;
+  top: 20px;
+  left: 35px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50%;
+  font-family: 'Delius Swash Caps', cursive;
+}
+  .col-md-3 img{
+    width:100%px;
+    margin: 20px;
   }
   #portfolio{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-left:18%;
+    margin-left:8%;
     margin-right: 16%; 
   }
-  .col-md-3 img{
-    max-width: 100%;
-    max-height: 100%;
+  button{
+    margin-left: 2%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
   }
-  .portfolio h2{
-    text-align: center;
-    padding-top:40px;
-    font-family: 'Gabriela', serif;
+}
+  #comment{
+    margin-left: 4%;
+    width: 84%;
   }
-  .contact{
-    background-image: url('../assets/backgrounds/c_image.jpg');
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: rgb(200, 205, 204);
-  }
-  .title{
-    padding: 6px;
-  }
-  .contact h2{
-    text-align: center;
-    margin-top: 30px;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    font-family: 'Gabriela', serif;
-  }
-  input[type=text],input[type=email],#comment{
-    background: transparent;
-    color: white;
-    font-size: 20px;
-    font-family: 'Copse', serif;
-  }
-  .footer{
-    text-align: center;
-  }
+}
+.form-control::-webkit-input-placeholder { 
+  color: white; 
+}
+#MERGE1{
+  width: 30%;
+  margin-left: 18%;
+  margin-right: 30px;
+}
+#MERGE0{
+  width: 30%;
+}
+#comment{
+  margin-left: 20%;
+  width: 60%;
+}
+button{
+  margin-left: 20%;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+footer{
+  text-align: center;
+  padding-top: 30px;}
+footer p{
+  margin-top: 10px;
+}
